@@ -1,4 +1,4 @@
-# 🔎 RAG-поиск по научным статьям
+# RAG-поиск по научным статьям
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/rag-scientific-search/blob/main/RAG_lab.ipynb)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
