@@ -1,17 +1,11 @@
 # RAG-поиск по научным статьям
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/rag-scientific-search/blob/main/RAG_lab.ipynb)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![FAISS](https://img.shields.io/badge/vector%20store-FAISS-orange)
-![LLM](https://img.shields.io/badge/LLM-Qwen2.5--1.5B-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 Полный конвейер **Retrieval-Augmented Generation** на корпусе из 300+ реальных научных статей
 по теме *Retrieval-Augmented Generation & Vector Databases*: от сбора данных через REST API до количественной
 оценки поиска и генерации. Система отвечает на вопросы **только** по найденным статьям, ставит ссылки
 `[Название (Год)]` и честно отказывает, если ответа в корпусе нет.
 
-> Лабораторная работа «RAG-поиск», Вариант 2 (исследовательский уровень).
+> Лабораторная работа «RAG-поиск»
 
 ## Что внутри
 
