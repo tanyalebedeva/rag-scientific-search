@@ -1,0 +1,20 @@
+numpy
+pandas
+matplotlib
+requests
+tabulate
+nltk
+scikit-learn
+faiss-cpu
+rapidfuzz
+sentence-transformers
+transformers
+accelerate
+torch
+langchain-text-splitters>=0.3,<0.4
+jupyter
+# для Шага 7.3 (RAGAS, нужен JUDGE_API_KEY):
+ragas==0.2.15
+langchain-openai>=0.3,<0.4
+langchain-huggingface>=0.1,<0.2
+datasets

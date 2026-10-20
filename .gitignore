@@ -1,0 +1,18 @@
+# индексы FAISS и прочие тяжёлые артефакты пересобираются ноутбуком
+artifacts/
+rag_results.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# секреты
+.env
+*.key
+
+# ОС
+.DS_Store
+Thumbs.db
